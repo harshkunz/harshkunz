@@ -1,1 +1,1 @@
-![alt text](<photo 1.jpg>)
+![alt text](p1.jpg)
