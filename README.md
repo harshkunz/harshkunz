@@ -3,16 +3,14 @@
 I'm a Software Developer passionate about exploring new technologies and leveraging them to 💡 build impactful solutions or ⚙️ improve existing software.
 
 ``` python
-                                                    if (success() == true){
-                                                        celebrate();
-                                                    }
-                                                    while (success() == false){
-                                                        try_again();
-                                                        be_awesome();
-                                                    }
+                                                if (success() == true){
+                                                    celebrate();
+                                                }
+                                                while (success() == false){
+                                                    try_again();
+                                                    be_awesome();
+                                                }
 ```
-
-![alt text](p1.png)
 
 ### 🛠 Tech stack:
 #### Languages:
