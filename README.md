@@ -39,8 +39,8 @@ I'm a Software Developer passionate about exploring new technologies and leverag
 
 ### 📊 GitHub Stats:
 <div align="center" style="display: flex; justify-content: center; gap: 0; padding: 0; margin: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkunz&theme=dark&hide_border=true&hide_title=true&border_radius=0&show_icons=true&include_all_commits=false&count_private=false" width="436" height="200" style="margin: 0; padding: 0;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harshkunz&theme=dark&hide_border=true&border_radius=0" width="390" height="199" style="margin: 0; padding: 0;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkunz&theme=dark&hide_border=true&hide_title=true&border_radius=0&show_icons=true&include_all_commits=false&count_private=false" width="440" height="200" style="margin: 0; padding: 0;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harshkunz&theme=dark&hide_border=true&border_radius=0" width="394" height="199" style="margin: 0; padding: 0;" />
 </div>
 
 
