@@ -38,10 +38,9 @@ I'm a Software Developer passionate about exploring new technologies and leverag
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
 
 ### 📊 GitHub Stats:
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshkunz&theme=dark&hide_border=true&hide_title=true&border_radius=0&show_icons=true&include_all_commits=false&count_private=false" width="460" height="200" style="margin: 0; padding: 0;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harshkunz&theme=dark&hide_border=true&border_radius=0" width="410" height="200" style="margin: 0; padding: 0;" />
+<div align="center" style="display: flex; justify-content: center; gap: 0; padding: 0; margin: 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshkunz&theme=dark&hide_border=true&hide_title=true&border_radius=0&show_icons=true&include_all_commits=false&count_private=false" width="436" height="200" style="margin: 0; padding: 0;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=harshkunz&theme=dark&hide_border=true&border_radius=0" width="390" height="199" style="margin: 0; padding: 0;" />
 </div>
 
 
