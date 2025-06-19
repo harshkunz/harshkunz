@@ -11,6 +11,7 @@ I'm a Software Developer passionate about exploring new technologies and leverag
                                                     be_awesome();
                                                 }
 ```
+___
 
 ### 🛠 Tech stack:
 #### Languages:
