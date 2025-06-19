@@ -1,5 +1,4 @@
 <h3>👋 Hi, I'm Harsh Pratap</h3>
-<h2>About me</h2>
 
 ⚡I'm a Software Developer passionate about exploring new technologies and leveraging them to 💡 build impactful solutions or ⚙️ improve existing software.
 
