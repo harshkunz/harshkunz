@@ -6,9 +6,8 @@
 
 ⚡I'm a Software Developer passionate about exploring new technologies and leveraging them to 💡 build impactful solutions or ⚙️ improve existing software. 
 
-<h2>🛠 Tech stack:</h2>
+<h3>🛠 Tech stack:</h3>
 
-### 🛠 Tech stack:
 #### Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) ![ymal](https://img.shields.io/badge/yaml-%235835CC.svg?style=flat-square&logo=yaml&logoColor=white)
 
