@@ -41,10 +41,10 @@ I'm a Software Developer passionate about exploring new technologies and leverag
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=harshkunz&theme=dark&hide_border=false&hide_title=true&border_radius=0&show_icons=true&include_all_commits=false&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=harshkunz&theme=dark&hide_border=false&hide_title=true&border_radius=0&show_icons=true&include_all_commits=false&count_private=false" width="410" height="200" />
     </td>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=harshkunz&theme=dark&hide_border=false&border_radius=0" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=harshkunz&theme=dark&hide_border=false&border_radius=0" width="410" height="200" />
     </td>
   </tr>
 </table>
