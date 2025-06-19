@@ -11,9 +11,7 @@ I'm a Software Developer passionate about exploring new technologies and leverag
                                                     be_awesome();
                                                 }
 ```
-
-
-<h3 style="border-bottom: 1px solid #444; padding-bottom: 0px; width: 100%; margin: 0;"></h3>
+___
 
 <h3>🛠 Tech Stack:</h3>
 <h4>Languages:</h4>
@@ -47,7 +45,7 @@ I'm a Software Developer passionate about exploring new technologies and leverag
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white)
 
-<h3 style="border-bottom: 1px solid #444; width: 100%; margin: 0;">val</h3>
+___
 
 <h3>📊 GitHub Stats:</h3>
 <p align="center">
