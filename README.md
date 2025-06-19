@@ -1,11 +1,12 @@
-<h2>About me</h2>
 <h3>👋 Hi, I'm Harsh Pratap</h3>
-
-⚡I'm a Software Developer passionate about exploring new technologies and leveraging them to 💡 build impactful solutions or ⚙️ improve existing software. 
-
 
 ![alt text](p1.png)
 
+<h2>About me</h2>
+
+⚡I'm a Software Developer passionate about exploring new technologies and leveraging them to 💡 build impactful solutions or ⚙️ improve existing software. 
+
+<h2>🛠 Tech stack:</h2>
 
 ### 🛠 Tech stack:
 #### Languages:
