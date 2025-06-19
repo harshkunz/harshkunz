@@ -1,6 +1,7 @@
 <h2>About me</h2>
+<h3>👋 Hi, I'm Harsh Pratap</h3>
 
-⚡ I am Harsh Pratap, a software developer. I am very keen to learn new technologies and use them to either 💬 create something useful or improve the existing softwares.   
+⚡I'm a Software Developer passionate about exploring new technologies and leveraging them to 💡 build impactful solutions or ⚙️ enhance existing software. Whether it's crafting efficient systems or experimenting with emerging tools, I'm always driven by curiosity and purpose.   
 
 
 ![alt text](p1.png)
