@@ -41,13 +41,6 @@ ___
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=harshkunz&theme=dark&hide_border=true&hide_title=true&border_radius=0&show_icons=true&include_all_commits=false&count_private=false" width="440"/>
-
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harshkunz&theme=dark&hide_border=true&border_radius=0" width="420"/>
 </p>
-
-
-
-
 
 ### 📫 links
