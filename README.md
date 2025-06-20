@@ -55,7 +55,8 @@ ___
 
 <h3>📫 links:</h3>
 
-[![Instagram](https://img.shields.io/badge/instagram-%23121011?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/harshkunz) [![Leetcode](https://img.shields.io/badge/leetcode-%23121011?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/harshkunz) [![Codechef](https://img.shields.io/badge/codechef-%23121011?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshkunz) [![Codeforces](https://img.shields.io/badge/codeforces-%23121011?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshkunz) [![Discord](https://img.shields.io/badge/discord-%23121011?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/harshkunz) [![Gmail](https://img.shields.io/badge/gmail-%23121011?style=flat-square&logo=gmail&logoColor=white)](mailto:harshkunz0@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-%23121011?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/harshkunz) [![Leetcode](https://img.shields.io/badge/leetcode-%23121011?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/harshkunz) [![Codechef](https://img.shields.io/badge/codechef-%23121011?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshkunz) [![Codeforces](https://img.shields.io/badge/codeforces-%23121011?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshkunz) [![Gmail](https://img.shields.io/badge/gmail-%23121011?style=flat-square&logo=gmail&logoColor=white)](mailto:harshkunz0@gmail.com?subject=Hello%20Harsh&body=I%20wanted%20to%20connect%20with%20you.)
+
 
 
 
