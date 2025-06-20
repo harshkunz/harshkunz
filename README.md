@@ -54,19 +54,9 @@ ___
 </p>
 
 <h3>📫 links:</h3>
-<a href="https://instagram.com/harshkunz" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23121011?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://leetcode.com/harshkunz" target="_blank">
-  <img src="https://img.shields.io/badge/leetcode-%23121011?style=flat-square&logo=leetcode&logoColor=white" alt="Leetcode">
-</a>
-<a href="https://www.codechef.com/users/harshkunz" target="_blank">
-  <img src="https://img.shields.io/badge/codechef-%23121011?style=flat-square&logo=codechef&logoColor=white" alt="Codechef">
-</a>
-<a href="https://codeforces.com/profile/harshkunz" target="_blank">
-  <img src="https://img.shields.io/badge/codeforces-%23121011?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces">
-</a>
-<a href="https://twitter.com/HarshKunz0" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%23121011?style=flat-square&logo=x&logoColor=white" alt="Twitter">
-</a>
+
+[![Instagram](https://img.shields.io/badge/instagram-%23121011?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/harshkunz) [![Leetcode](https://img.shields.io/badge/leetcode-%23121011?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/harshkunz) [![Codechef](https://img.shields.io/badge/codechef-%23121011?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/harshkunz) [![Codeforces](https://img.shields.io/badge/codeforces-%23121011?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/harshkunz) [![Twitter](https://img.shields.io/badge/twitter-%23121011?style=flat-square&logo=x&logoColor=white)](https://twitter.com/HarshKunz0)
+
+
+
 
