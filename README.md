@@ -1,4 +1,4 @@
-<h3 align="center" style="color: #4CAF50; font-family: Arial, sans-serif;">
+<h3 style="color: #4CAF50; font-family: Arial, sans-serif;">
   👋 Hi, I'm Harsh Pratap
 </h3>
 
