@@ -10,7 +10,7 @@ I'm a Software Developer passionate about exploring new technologies and leverag
 
 ### ☐  Tech Stacks
 
-<div align="center" style="width:100%; overflow-x:auto; white-space:nowrap; padding: 20px 0;">
+<div align="center" style="width:100%; overflow-x:auto; white-space:nowrap; padding: 0; margin-top: 10px;">
 
   <!-- 🔹 Languages -->
   <p>
@@ -20,7 +20,6 @@ I'm a Software Developer passionate about exploring new technologies and leverag
     <img src="https://img.shields.io/badge/typescript-%23150458.svg?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
   </p>
-
   <!-- 🔹 Frontend -->
   <p>
     <img src="https://img.shields.io/badge/React.js-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
