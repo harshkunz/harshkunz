@@ -1,4 +1,6 @@
-<h3>👋 Hi, I'm Harsh Pratap</h3>
+<h3 align="center" style="color: #4CAF50; font-family: Arial, sans-serif;">
+  👋 Hi, I'm Harsh Pratap
+</h3>
 
 I'm a Software Developer passionate about exploring new technologies and leveraging them to 💡 build impactful solutions or ⚙️ improve existing software.
 
@@ -6,7 +8,9 @@ I'm a Software Developer passionate about exploring new technologies and leverag
                                                  print("error")                                        
 ```
 
-### ☐  Tech Stack
+### ☐  Tech Stacks
+<Br/>
+
 <div align="center" style="width:100%; overflow-x:auto; white-space:nowrap; padding: 10px 0;">
 
   <!-- 🔹 Languages -->
@@ -66,7 +70,7 @@ I'm a Software Developer passionate about exploring new technologies and leverag
     <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Figma-%235835CC.svg?style=flat-square&logo=figma&logoColor=white" />
   </p>
-
+<Br/>
 </div>
 
 
