@@ -9,7 +9,6 @@ I'm a Software Developer passionate about exploring new technologies and leverag
 ```
 
 ### ☐  Tech Stacks
-<Br/>
 
 <div align="center" style="width:100%; overflow-x:auto; white-space:nowrap; padding: 10px 0;">
 
@@ -70,7 +69,7 @@ I'm a Software Developer passionate about exploring new technologies and leverag
     <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Figma-%235835CC.svg?style=flat-square&logo=figma&logoColor=white" />
   </p>
-<Br/>
+
 </div>
 
 
